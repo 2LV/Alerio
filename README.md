@@ -71,5 +71,5 @@ We are seeking experienced traders to test Alerio and provide feedback. All test
 
 - discord @ pathtoheart
 - telegram @ [fortracyhyde](https://t.me/fortracyhyde)
-- signal @ [mydeadgirlfriend](https://signal.me/#eu/88cX-j1OVAJ_whv_pZl8QQO_xUOjqAgNOPITP9iltGrbzIfE-4JBd5idT74XOsiR)
+- signal @ [mydeadgirlfriend.02](https://signal.me/#eu/88cX-j1OVAJ_whv_pZl8QQO_xUOjqAgNOPITP9iltGrbzIfE-4JBd5idT74XOsiR)
 - email @ metrotrip@proton.me
