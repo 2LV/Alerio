@@ -49,7 +49,7 @@ Alerio bridges the gap between human analysis and machine execution, eliminating
 No. Alerio automates trade executions from signals, but success still depends on your trading psychology and the signals you follow.
 
 **Do I Need Trading Experience to Use Alerio?**  
-Intermediate experience is preferable. Alerio is a tool, not a shortcut. You should understand alerts, risk, and strategy. 
+Intermediate experience is recommended. Alerio is a tool, not a shortcut. You should understand alerts, risk management, and strategy before doing any type of trading, including automation. 
 
 **Is Alerio Beginner-Friendly?**  
 Yes, but basic trading knowledge is recommended to configure and follow quality alerts effectively.
